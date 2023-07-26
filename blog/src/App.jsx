@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-    <Header></Header>
+    <Header />
       <h1>Blog</h1>
     </>
   )
